@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://vk.com/vl_kosh" target="_blank">Vlad</a>!</h1>
 <br>
+
 ### 👨‍💻 About me :
 
 - Information Technology Student and Web Programmer from Cheboksary <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Chuvashia.svg/120px-Flag_of_Chuvashia.svg.png" height="12" style="box-shadow: none !important;"/>
@@ -7,10 +8,10 @@
 
 ### 📈 My stats:
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=FIZIS-net&show_icons=true&theme=dark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=FIZIS-net&theme=dark" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FIZIS-net&layout=compact&theme=dark" width = 400>
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=FIZIS-net&show_icons=true&theme=dark" width = 500>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=FIZIS-net&theme=dark" width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FIZIS-net&layout=compact&theme=dark" width = 500>
 </p>
 
 ### 🛠️ Languages and development tools:
