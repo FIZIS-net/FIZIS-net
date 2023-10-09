@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About me :
 
-- Information Technology Student and Web Programmer from Cheboksary <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Chuvashia.svg/120px-Flag_of_Chuvashia.svg.png" height="12" style="box-shadow: none !important;"/>
+- Web Programmer from Cheboksary <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Chuvashia.svg/120px-Flag_of_Chuvashia.svg.png" height="12" style="box-shadow: none !important;"/>
 - I am currently working at Team F5 Ltd. as a full-stack developer 💻
 
 ### 📈 My stats:
