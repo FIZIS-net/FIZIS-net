@@ -9,7 +9,7 @@
 ### 📈 My stats:
 
 <div style="text-align: center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=FIZIS-net&show_icons=true&theme=dark" width = 375>
+  <img src = "https://github-readme-stats.vercel.app/api?username=FIZIS-net&show_icons=true&theme=dark" width = 376>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=FIZIS-net&theme=dark" width = 400>
 </div>
 
